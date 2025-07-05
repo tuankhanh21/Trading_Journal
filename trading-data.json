@@ -7,7 +7,7 @@
     "currentDate": "2025-07-05",
     "expiredDate": "2025-07-14",
     "cost": 200,
-    "profit": null,
+    "profit": 2,
     "label": "test",
     "note": ""
   }
