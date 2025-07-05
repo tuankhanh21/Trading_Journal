@@ -1,17 +1,5 @@
 [
   {
-    "id": 1,
-    "orderType": "Buy",
-    "symbol": "AAPL",
-    "strike": 150,
-    "currentDate": "2024-01-15",
-    "expiredDate": "2024-02-16",
-    "cost": 500,
-    "profit": 150,
-    "label": "Earnings Play",
-    "note": "Bullish on Q4 earnings. Expecting revenue beat due to strong iPhone sales."
-  },
-  {
     "id": 2,
     "orderType": "Sell",
     "symbol": "TSLA",
