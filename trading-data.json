@@ -1,14 +1,1 @@
-[
-  {
-    "id": 1751744191256,
-    "orderType": "Buy",
-    "symbol": "SPY",
-    "strike": 600,
-    "currentDate": "2025-07-05",
-    "expiredDate": "2025-07-14",
-    "cost": 200,
-    "profit": 2,
-    "label": "test",
-    "note": "213123"
-  }
-]
+[]
