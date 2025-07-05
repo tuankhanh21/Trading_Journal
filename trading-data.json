@@ -1,14 +1,1 @@
-[
-  {
-    "id": 2,
-    "orderType": "Sell",
-    "symbol": "TSLA",
-    "strike": 200,
-    "currentDate": "2024-01-20",
-    "expiredDate": "2024-03-15",
-    "cost": 750,
-    "profit": null,
-    "label": "Technical Breakout",
-    "note": "Sold covered calls above resistance. High IV makes this attractive."
-  }
-]
+[]
